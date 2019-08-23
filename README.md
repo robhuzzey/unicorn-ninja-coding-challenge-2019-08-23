@@ -1,6 +1,6 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-# :unicorn: Unicorn Ninja Coding Challenge for 2019-08-18
+# :unicorn: Unicorn Ninja Coding Challenge for 2019-08-23
 
 (Adapted from: [_Daily Coding Challenge_](https://www.dailycodingproblem.com/) @ 2019-08-18.)
 
